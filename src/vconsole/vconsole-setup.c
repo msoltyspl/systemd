@@ -330,3 +330,5 @@ int main(int argc, char **argv) {
 
         return font_ok && keyboard_ok ? EXIT_SUCCESS : EXIT_FAILURE;
 }
+
+/* vim: set ts=8 sts=8 sw=8 et : */
